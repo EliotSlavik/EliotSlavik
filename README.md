@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @EliotSlavik
-- 👀 I’m a Paranormal Investigator.
-- 🌱 I’m currently learning full stack web development.
+- 🌱 I’m a full stack web developer out of Chicagoland.
 
 
 <!---
