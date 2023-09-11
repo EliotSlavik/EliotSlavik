@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EliotSlavik
-- 🌱 I’m a full stack web developer out of Chicagoland.
+- 🌱 I’m a Front End web developer out of Chicagoland.
 
 
 <!---
